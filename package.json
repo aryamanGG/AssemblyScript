@@ -1,0 +1,22 @@
+{
+  "name": "assemblyscript",
+  "version": "1.0.0",
+  "description": "my first smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aryaman",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryamanGG/AssemblyScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aryamanGG/AssemblyScript/issues"
+  },
+  "homepage": "https://github.com/aryamanGG/AssemblyScript#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
